@@ -1,6 +1,6 @@
-project_name = "name"
-repo = "git@github.com:fqj/test_jenkins.git"
-repo_name = "name"
+project_name = "vamos"
+repo = "https://github.com/fqj/test_jenkins.git"
+repo_name = "repo3"
 
 pipelineJob(project_name) {
     definition {
